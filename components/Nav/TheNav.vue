@@ -9,13 +9,13 @@
         </div>
         <div class="nav-right">
           <a
-            href="#"
+            href="#home"
             class="nav-right-item"
           >
             Home
           </a>
           <a
-            href="#"
+            href="#features"
             class="nav-right-item"
           >
             Feature

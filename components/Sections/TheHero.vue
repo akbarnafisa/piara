@@ -1,6 +1,6 @@
 <template>
   <div
-    id="hero"
+    id="home"
     class="section-header container hero-section"
   >
     <div class="row align-items-center">

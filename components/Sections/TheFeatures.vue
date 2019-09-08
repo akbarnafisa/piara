@@ -1,5 +1,8 @@
 <template>
-  <div class="section">
+  <div
+    id="features"
+    class="section"
+  >
     <div class="container">
       <div class="row mw-2 mx-auto flex-center pb-7">
         <h2 class="fw-700">

@@ -61,10 +61,10 @@ export default {
     return {
       activePanel: 0,
       featureImages: [
-        '/img-feature1.png',
-        '/img-feature2.png',
-        '/img-feature3.png',
-        '/img-feature4.png',
+        '/img-feature1.jpg',
+        '/img-feature2.jpg',
+        '/img-feature3.jpg',
+        '/img-feature4.jpg',
       ],
       features: [{
         icon: 'feature1',

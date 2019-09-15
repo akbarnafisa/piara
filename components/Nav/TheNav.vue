@@ -22,7 +22,7 @@
           </a>
           <button class="btn btn--small primary">
             <a
-              href=""
+              href="https://play.google.com/store/apps/details?id=com.piara"
               target="_blank"
             >
               Download

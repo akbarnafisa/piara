@@ -65,7 +65,7 @@ export default {
       ],
       features: [{
         icon: 'feature1',
-        title: 'Collecting your mood daily',
+        title: 'Collect your daily mood',
         desc: 'By saving a little time to reflect on your daily mood would give a huge effect. Piara aims to be your right hand to  accompany your day and to illustrate your emotional state.',
       },
       {

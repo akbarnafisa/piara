@@ -5,10 +5,10 @@
         Piara © 2019
       </div>
       <a
-        href="mailto:piara@app.com"
+        href="mailto:piarahq@evius.id"
         target="_top"
       >
-        Piara@app.com
+        Piarahq@evius.id
       </a>
     </div>
 

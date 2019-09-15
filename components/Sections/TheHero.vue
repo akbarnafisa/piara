@@ -13,7 +13,7 @@
             Piara is here to help you to gain better understanding of your emotional state
           </p>
           <a
-            href='#'
+            href='https://play.google.com/store/apps/details?id=com.piara'
             target="_blank"
             class="mt-5"
           >

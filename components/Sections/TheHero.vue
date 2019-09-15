@@ -7,10 +7,10 @@
       <div class="col-md-6 ">
         <div class="text-wrapper ml-0 mr-lg-4">
           <h3 class="h2-md">
-            Keep you on track of your daily activities to understand your emotions better.
+            Keep track of your daily activities to understand your emotions better
           </h3>
           <p class="mt-3">
-            The piara app is your companion app to help you to gain better understanding of yourself and reflect your emotional state.
+            Piara is here to help you to gain better understanding of your emotional state
           </p>
           <a
             href='#'

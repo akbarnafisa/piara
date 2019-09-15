@@ -1,7 +1,7 @@
 {
   "name": "piara",
   "version": "1.0.0",
-  "description": "Piara",
+  "description": "Piara keep track of your daily activities to understand your emotions better.",
   "author": "Evius",
   "private": true,
   "scripts": {

@@ -8,9 +8,6 @@
         <h2 class="fw-700">
           Our Features
         </h2>
-        <p class="mt-3 text-center">
-          It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-        </p>
       </div>
       <div class="feature mt-7">
         <div class="phone-wrapper">
@@ -84,7 +81,7 @@ export default {
       {
         icon: 'feature4',
         title: 'Invest in Yourself',
-        desc: 'Find a pattern that increase your productivity and resolve your problem in the future by investing your time to introspecting yourself with your dairy mood journal.',
+        desc: 'Find a pattern that increase your productivity and resolve your problem in the future by investing your time to introspecting yourself with your daily mood journal.',
       }],
     }
   },

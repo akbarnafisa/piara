@@ -12,13 +12,29 @@
           <p class="mt-3">
             Piara is here to help you to gain better understanding of your emotional state
           </p>
-          <a
+          <div class="button-wrapper">
+            <a
             href='https://play.google.com/store/apps/details?id=com.piara'
             target="_blank"
             class="mt-5"
-          >
-            <img src="/download.png" />
-          </a>
+            >
+              <img 
+                style="margin-right: 12px" 
+                src="/download.png"
+              />
+            </a>
+            <a 
+              href="https://www.producthunt.com/posts/piara?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-piara"
+              target="_blank"
+            >
+              <img 
+                src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=167944&theme=light"
+                alt="Piara - Privacy-First Mood Tracker | Product Hunt Embed"
+                class="mt-2"
+              />
+            </a>
+          </div>
+          
           <!-- <button class="btn btn--medium primary mt-5">
             Join Us
           </button> -->
@@ -46,16 +62,19 @@ export default {
 .hero-section {
   min-height: calc(100vh - 100px);
   width: 100%;
-  a {
-    transition: transform 0.3s ease;
-    height: 50px;
-    cursor: pointer;
-    display: inline-block;
-    img {
-      height: 100%;
-    }
-    &:hover {
-      transform: scale(1.1);
+  .button-wrapper {
+
+    a {
+      transition: transform 0.3s ease;
+      height: 50px;
+      cursor: pointer;
+      display: inline-block;
+      img {
+        height: 100%;
+      }
+      &:hover {
+        transform: scale(1.1);
+      }
     }
   }
   h3 {

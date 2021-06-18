@@ -15,7 +15,7 @@
     "axios": "^0.18.0",
     "cross-env": "^5.2.0",
     "nuxt": "^2.4.0",
-    "striptags": "^3.1.1"
+    "striptags": "^3.2.0"
   },
   "devDependencies": {
     "@nuxtjs/style-resources": "^0.1.2",
